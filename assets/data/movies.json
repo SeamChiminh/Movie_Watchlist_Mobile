@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "rating": 8.7,
+    "posterAsset": "assets/images/posters/Avatar_Fire_and_Ash.jpg",
+    "overview": "Jake Sully and Ney'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. When an ancient threat resurfaces, Jake must fight a difficult war against the humans.",
+    "duration": 192,
+    "category": "Science Fiction"
+  },
+  {
+    "id": 2,
+    "title": "Zootopia 2",
+    "year": 2025,
+    "rating": 8.5,
+    "posterAsset": "assets/images/posters/Zootopia_2.jpg",
+    "overview": "The sequel to the 2016 animated hit follows Judy Hopps and Nick Wilde as they continue their adventures in the bustling metropolis of Zootopia.",
+    "duration": 108,
+    "category": "Animation"
+  },
+  {
+    "id": 3,
+    "title": "The Wrecking Crew",
+    "year": 2026,
+    "rating": 7.8,
+    "posterAsset": "assets/images/posters/The_Wrecking_Crew.jpg",
+    "overview": "A group of elite demolition experts must prevent a catastrophic disaster when a rogue agent threatens to destroy a major city.",
+    "duration": 125,
+    "category": "Action"
+  },
+  {
+    "id": 4,
+    "title": "Greenland 2: Migration",
+    "year": 2026,
+    "rating": 7.6,
+    "posterAsset": "assets/images/posters/Greenland_2_Migration.jpg",
+    "overview": "The Garrity family continues their fight for survival as they navigate a post-apocalyptic world, searching for a new home in Greenland.",
+    "duration": 119,
+    "category": "Thriller"
+  },
+  {
+    "id": 5,
+    "title": "Predator: Badlands",
+    "year": 2025,
+    "rating": 7.9,
+    "posterAsset": "assets/images/posters/Predator_Badlands.jpg",
+    "overview": "A new team of elite soldiers must survive in the unforgiving badlands when they encounter the most dangerous Predator yet.",
+    "duration": 142,
+    "category": "Action"
+  },
+  {
+    "id": 6,
+    "title": "The Shadow's Edge",
+    "year": 2025,
+    "rating": 8.2,
+    "posterAsset": "assets/images/posters/The_Shadow's_Edge.jpg",
+    "overview": "A former spy is pulled back into the world of espionage when a shadowy organization threatens global security.",
+    "duration": 138,
+    "category": "Thriller"
+  },
+  {
+    "id": 7,
+    "title": "The Housemaid",
+    "year": 2025,
+    "rating": 7.4,
+    "posterAsset": "assets/images/posters/The_Housemaid.jpg",
+    "overview": "A young woman takes a job as a housemaid in a wealthy family's estate, only to discover dark secrets hidden within the mansion's walls.",
+    "duration": 112,
+    "category": "Horror"
+  },
+  {
+    "id": 8,
+    "title": "War of the Worlds",
+    "year": 2025,
+    "rating": 8.0,
+    "posterAsset": "assets/images/posters/War_of_the_Worlds.jpg",
+    "overview": "A modern retelling of H.G. Wells' classic novel, following humanity's desperate struggle for survival against an alien invasion.",
+    "duration": 165,
+    "category": "Science Fiction"
+  },
+  {
+    "id": 9,
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "year": 2025,
+    "rating": 7.1,
+    "posterAsset": "assets/images/posters/The_SpongeBob_Movie_Search_for_SquarePants.jpg",
+    "overview": "SpongeBob SquarePants embarks on an epic underwater adventure to find his missing friend in this animated comedy.",
+    "duration": 95,
+    "category": "Animation"
+  },
+  {
+    "id": 10,
+    "title": "Strangers",
+    "year": 2024,
+    "rating": 6.8,
+    "posterAsset": "assets/images/posters/Strangers.jpg",
+    "overview": "A couple's romantic getaway turns into a nightmare when they are terrorized by three masked strangers in a remote vacation home.",
+    "duration": 102,
+    "category": "Horror"
+  },
+  {
+    "id": 11,
+    "title": "Silent Night, Deadly Night",
+    "year": 2025,
+    "rating": 6.5,
+    "posterAsset": "assets/images/posters/Silent_Night_Deadly_Night.jpg",
+    "overview": "A small town is terrorized by a killer during the Christmas season in this horror thriller.",
+    "duration": 98,
+    "category": "Horror"
+  },
+  {
+    "id": 12,
+    "title": "96 Minutes",
+    "year": 2025,
+    "rating": 7.3,
+    "posterAsset": "assets/images/posters/96_Minutes.jpg",
+    "overview": "A tense thriller that unfolds in real-time as a group of hostages must escape their captors within 96 minutes.",
+    "duration": 96,
+    "category": "Thriller"
+  },
+  {
+    "id": 13,
+    "title": "The Internship",
+    "year": 2026,
+    "rating": 7.0,
+    "posterAsset": "assets/images/posters/The_Internship.jpg",
+    "overview": "Two middle-aged salesmen compete with tech-savvy millennials for internships at a major tech company.",
+    "duration": 119,
+    "category": "Comedy"
+  },
+  {
+    "id": 14,
+    "title": "Oscar Shaw",
+    "year": 2026,
+    "rating": 7.7,
+    "posterAsset": "assets/images/posters/Oscar_Shaw.jpg",
+    "overview": "The story of a struggling actor who finally gets his big break, but must navigate the cutthroat world of Hollywood.",
+    "duration": 128,
+    "category": "Drama"
+  },
+  {
+    "id": 15,
+    "title": "Murder at the Embassy",
+    "year": 2025,
+    "rating": 7.5,
+    "posterAsset": "assets/images/posters/Murder_at_the_Embassy.jpg",
+    "overview": "A detective must solve a high-profile murder case at a foreign embassy, where diplomatic immunity complicates the investigation.",
+    "duration": 135,
+    "category": "Mystery"
+  },
+  {
+    "id": 16,
+    "title": "The Rip",
+    "year": 2026,
+    "rating": 6.9,
+    "posterAsset": "assets/images/posters/The_Rip.jpg",
+    "overview": "A surfer must survive a massive rip current while being hunted by a great white shark off the coast of Australia.",
+    "duration": 105,
+    "category": "Thriller"
+  },
+  {
+    "id": 17,
+    "title": "David",
+    "year": 2025,
+    "rating": 8.1,
+    "posterAsset": "assets/images/posters/David.jpg",
+    "overview": "A biblical epic retelling the story of David, from shepherd boy to king of Israel, and his legendary battle with Goliath.",
+    "duration": 158,
+    "category": "Drama"
+  },
+  {
+    "id": 18,
+    "title": "Send Help",
+    "year": 2026,
+    "rating": 7.2,
+    "posterAsset": "assets/images/posters/Send_Help.jpg",
+    "overview": "A group of friends on a remote camping trip must survive when they realize help is not coming and they're being hunted.",
+    "duration": 114,
+    "category": "Horror"
+  },
+  {
+    "id": 19,
+    "title": "Dust Bunny",
+    "year": 2025,
+    "rating": 6.7,
+    "posterAsset": "assets/images/posters/Dust_Bunny.jpg",
+    "overview": "A family discovers that the dust bunny under their bed is actually a terrifying creature from another dimension.",
+    "duration": 89,
+    "category": "Horror"
+  },
+  {
+    "id": 20,
+    "title": "Anaconda",
+    "year": 2025,
+    "rating": 7.4,
+    "posterAsset": "assets/images/posters/Anaconda.jpg",
+    "overview": "A documentary film crew in the Amazon rainforest must survive when they encounter a massive, man-eating anaconda.",
+    "duration": 132,
+    "category": "Thriller"
+  },
+  {
+    "id": 21,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "rating": 8.8,
+    "posterAsset": "assets/images/posters/Dune_Part_Two.jpg",
+    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "duration": 166,
+    "category": "Science Fiction"
+  },
+  {
+    "id": 22,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "rating": 8.3,
+    "posterAsset": "assets/images/posters/Oppenheimer.jpg",
+    "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "duration": 180,
+    "category": "Drama"
+  },
+  {
+    "id": 23,
+    "title": "Barbie",
+    "year": 2023,
+    "rating": 7.0,
+    "posterAsset": "assets/images/posters/Barbie.jpg",
+    "overview": "Barbie suffers a crisis that leads her to question her world and her existence in this live-action adventure comedy.",
+    "duration": 114,
+    "category": "Comedy"
+  },
+  {
+    "id": 24,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rating": 8.7,
+    "posterAsset": "assets/images/posters/Spider_Man_Across_the_Spider_Verse.jpg",
+    "overview": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence.",
+    "duration": 140,
+    "category": "Animation"
+  },
+  {
+    "id": 25,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9.0,
+    "posterAsset": "assets/images/posters/The_Dark_Knight.jpg",
+    "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "duration": 152,
+    "category": "Action"
+  },
+  {
+    "id": 26,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "posterAsset": "assets/images/posters/Inception.jpg",
+    "overview": "A skilled thief is given a chance at redemption if he can pull off an impossible heist: planting an idea in someone's mind through dream-sharing technology.",
+    "duration": 148,
+    "category": "Science Fiction"
+  },
+  {
+    "id": 27,
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.6,
+    "posterAsset": "assets/images/posters/Interstellar.jpg",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel.",
+    "duration": 169,
+    "category": "Science Fiction"
+  },
+  {
+    "id": 28,
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "posterAsset": "assets/images/posters/The_Matrix.jpg",
+    "overview": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth: the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "duration": 136,
+    "category": "Science Fiction"
+  },
+  {
+    "id": 29,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.9,
+    "posterAsset": "assets/images/posters/Pulp_Fiction.jpg",
+    "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "duration": 154,
+    "category": "Crime"
+  },
+  {
+    "id": 30,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "posterAsset": "assets/images/posters/The_Shawshank_Redemption.jpg",
+    "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "duration": 142,
+    "category": "Drama"
+  }
+]

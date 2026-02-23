@@ -6,7 +6,9 @@ import 'data/movie_repository.dart';
 import 'data/prefs_storage.dart';
 import 'viewmodels/catalog_viewmodel.dart';
 import 'viewmodels/library_viewmodel.dart';
-import 'views/shell_view.dart';
+import 'viewmodels/user_profile_viewmodel.dart';
+import 'screen/splash_wrapper.dart';
+import 'theme/app_colors.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -40,16 +42,59 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(
           create: (ctx) => CatalogViewModel(ctx.read<MovieRepository>())..load(),
         ),
+        ChangeNotifierProvider(
+          create: (_) => UserProfileViewModel(),
+        ),
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Movie Watchlist',
-        theme: ThemeData(
-          useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
-        ),
-        home: const ShellView(),
+        theme: lightTheme,
+        darkTheme: darkTheme,
+        themeMode: ThemeMode.system,
+        home: const SplashWrapper(),
       ),
     );
   }
 }
+
+
+final lightTheme = ThemeData(
+  useMaterial3: true,
+  fontFamily: 'Poppins',
+  scaffoldBackgroundColor: AppColors.textWhite, // Consistent background
+  bottomNavigationBarTheme: const BottomNavigationBarThemeData(
+    backgroundColor: Colors.transparent,
+    elevation: 0,
+  ),
+  colorScheme: const ColorScheme.light(
+    primary: AppColors.blueAccent,
+    onPrimary: AppColors.textWhite,
+    secondary: AppColors.green,
+    onSecondary: AppColors.textWhite,
+    surface: AppColors.textWhite,
+    onSurface: AppColors.textBlack,
+    error: AppColors.red,
+    onError: AppColors.textWhite,
+  ),
+);
+
+final darkTheme = ThemeData(
+  useMaterial3: true,
+  fontFamily: 'Poppins',
+  scaffoldBackgroundColor: AppColors.bgBottom, // Consistent background
+  bottomNavigationBarTheme: const BottomNavigationBarThemeData(
+    backgroundColor: Colors.transparent,
+    elevation: 0,
+  ),
+  colorScheme: const ColorScheme.dark(
+    primary: AppColors.blueAccent,
+    onPrimary: AppColors.bgTop,
+    secondary: AppColors.green,
+    onSecondary: AppColors.bgTop,
+    surface: AppColors.surface, // Use consistent surface color
+    onSurface: AppColors.textWhite,
+    error: AppColors.red,
+    onError: AppColors.textWhite,
+  ),
+);
